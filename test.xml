@@ -1,0 +1,7 @@
+<test>
+    <test-case>
+        <q>Привет</q>
+        <a state="/Beginning"/>
+    </test-case>
+    
+</test>    
