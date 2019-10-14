@@ -1,0 +1,12 @@
+name: games-test
+
+entryPoint: main.sc
+  
+
+tests:
+    include:
+       - test.xml
+       
+dependencies:
+  - name: zenbot-common
+    type: module
