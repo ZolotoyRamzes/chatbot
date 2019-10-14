@@ -1,0 +1,123 @@
+{
+  "positions" : [ {
+    "id" : "/Start",
+    "name" : "1",
+    "actionTitles" : [ null, null ],
+    "x" : 200,
+    "y" : 844
+  }, {
+    "id" : "/SelectGame",
+    "name" : "2",
+    "actionTitles" : [ ],
+    "x" : 736,
+    "y" : 919
+  }, {
+    "id" : "/SelectGame/Numbers",
+    "name" : "3",
+    "actionTitles" : [ null, null ],
+    "x" : 1272,
+    "y" : 714
+  }, {
+    "id" : "/SelectGame/Cities",
+    "name" : "4",
+    "actionTitles" : [ null, null ],
+    "x" : 1272,
+    "y" : 968
+  }, {
+    "id" : "/CitiesSelectUserOrBot",
+    "name" : "5",
+    "actionTitles" : [ ],
+    "x" : 1808,
+    "y" : 1050
+  }, {
+    "id" : "/CitiesSelectUserOrBot/StartCitiesUser",
+    "name" : "6",
+    "actionTitles" : [ null, null ],
+    "x" : 2344,
+    "y" : 975
+  }, {
+    "id" : "/CitiesSelectUserOrBot/StartCitiesBot",
+    "name" : "7",
+    "actionTitles" : [ null, null ],
+    "x" : 2344,
+    "y" : 1223
+  }, {
+    "id" : "/SelectUserOrBot",
+    "name" : "8",
+    "actionTitles" : [ ],
+    "x" : 1808,
+    "y" : 777
+  }, {
+    "id" : "/SelectUserOrBot/StartNumbersUser",
+    "name" : "9",
+    "actionTitles" : [ null, null ],
+    "x" : 2344,
+    "y" : 429
+  }, {
+    "id" : "/SelectUserOrBot/StartNumbersBot",
+    "name" : "10",
+    "actionTitles" : [ null, null, null ],
+    "x" : 2344,
+    "y" : 677
+  }, {
+    "id" : "/GuessStart",
+    "name" : "11",
+    "actionTitles" : [ null, null, null ],
+    "x" : 2880,
+    "y" : 404
+  }, {
+    "id" : "/Guess",
+    "name" : "12",
+    "actionTitles" : [ null ],
+    "x" : 3416,
+    "y" : 479
+  }, {
+    "id" : "/Guess/More",
+    "name" : "13",
+    "actionTitles" : [ null, null ],
+    "x" : 3952,
+    "y" : 305
+  }, {
+    "id" : "/Guess/Less",
+    "name" : "14",
+    "actionTitles" : [ null, null ],
+    "x" : 3952,
+    "y" : 553
+  }, {
+    "id" : "/GuessStartBot",
+    "name" : "15",
+    "actionTitles" : [ null ],
+    "x" : 2880,
+    "y" : 727
+  }, {
+    "id" : "/CitiesGuessStartUser",
+    "name" : "16",
+    "actionTitles" : [ null ],
+    "x" : 2880,
+    "y" : 1124
+  }, {
+    "id" : "/Eq",
+    "name" : "17",
+    "actionTitles" : [ null ],
+    "x" : 200,
+    "y" : 646
+  }, {
+    "id" : "/Yes",
+    "name" : "18",
+    "actionTitles" : [ null, null ],
+    "x" : 200,
+    "y" : 398
+  }, {
+    "id" : "/No",
+    "name" : "19",
+    "actionTitles" : [ null ],
+    "x" : 200,
+    "y" : 200
+  }, {
+    "id" : "/Game",
+    "name" : "20",
+    "actionTitles" : [ null ],
+    "x" : 736,
+    "y" : 423
+  } ]
+}
